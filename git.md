@@ -189,7 +189,12 @@ git仓库中的所有文件
 ## git push 001gitdemo master 
 推送/提交 到远程库
 ## git pull 001gitdemo master 
-拉取/更新 到本地 
+拉取/更新 
+
+## 误删除
+### git status
+### git reset HEAD .
+### git checkout .
 
 
 
